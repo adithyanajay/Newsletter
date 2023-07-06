@@ -33,15 +33,15 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Screenshots/1.png)
+![Welcome Page](./Screenshots/1.png)
 
-![](./Screenshots/2.png)
+![Modal](./Screenshots/2.png)
 
 
 ### Links
 
 - Solution URL: [https://github.com/adithyanajay/Newsletter](https://github.com/adithyanajay/Newsletter)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://adithyanajay.github.io/Newsletter/](https://adithyanajay.github.io/Newsletter/)
 
 ## My process
 I used vite React for this project. Used tailwind CSS for the styilng part. I have not used any lib for the email validation, Insead i used useState because there is not much to it. I made this website with mobile first approach. It is a simple and fun project. I thank frontend mentor for providing us such exercises for free to develop our skills. 
