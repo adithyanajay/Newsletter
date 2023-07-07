@@ -33,9 +33,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Welcome Page](https://github.com/adithyanajay/Newsletter/blob/main/Screenshots/1.png)
+![screenshot](https://github.com/adithyanajay/Newsletter/blob/main/Screenshots/1.png)
 
-![Modal](https://github.com/adithyanajay/Newsletter/blob/main/Screenshots/2.png)
+![screenshot](https://github.com/adithyanajay/Newsletter/blob/main/Screenshots/2.png)
 
 
 ### Links
